@@ -1,5 +1,0 @@
-{{#user}}
-Name: Ah Rifat
-Skills: HTML, CSS, JS, React.js, Node.js, Express.js, MongoDB, Mysql, Laravel
-Email: ah.rifat@outlook.com
-{{/user}}
